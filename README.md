@@ -1,2 +1,4 @@
 # Task8
-work with classes
+Работа с классами
+
+![Screenshot](icon.png)
